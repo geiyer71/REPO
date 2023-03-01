@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 I am a git wizard now!
-=======
-I am a git beginner now!
->>>>>>> test
